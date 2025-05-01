@@ -51,3 +51,10 @@ These insights allow us to understand traffic performance at different segments 
 ## 🔄 Step 5: Turning Ratios (WIP)
 
 The final stage involves calculating turning ratios at intersections — i.e., estimating the likelihood of vehicles turning from one connected road to another. This requires analyzing sequences of GPS points and transitions between intersecting road segments. Further refinements will be addressed in future work.
+
+## Roadmap to the future
+-Clean and refine the road-to-vehicle matching
+
+-Make traffic data easier to explore (maybe with a simple dashboard)
+
+-Try applying the same method in a different city
