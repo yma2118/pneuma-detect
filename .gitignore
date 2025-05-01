@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Local datasets (DO NOT upload to GitHub)
+data/*.csv
+data/*.json
+data/*.zip
+
+# Results or generated files
+results/
