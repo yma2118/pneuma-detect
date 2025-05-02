@@ -197,3 +197,4 @@ notebooks/cache/
 data/*.csv
 data/*.json
 notebooks/cache/
+cache/
