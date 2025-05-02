@@ -178,6 +178,12 @@ data/*.csv
 data/*.json
 data/*.zip
 
+
+# (Optional) Ignore all cache folders
+notebooks/cache/
+
+
+
 # Ignore large cache or intermediate files
 notebooks/cache/
 *.json
