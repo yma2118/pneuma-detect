@@ -194,3 +194,6 @@ results/
 data/*.csv
 data/*.json
 notebooks/cache/
+data/*.csv
+data/*.json
+notebooks/cache/
