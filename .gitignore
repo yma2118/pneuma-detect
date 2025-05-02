@@ -178,5 +178,10 @@ data/*.csv
 data/*.json
 data/*.zip
 
+# Ignore large cache or intermediate files
+notebooks/cache/
+*.json
+*.graphml
+
 # Results or generated files
 results/
